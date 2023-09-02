@@ -2,7 +2,6 @@
 
 ## 我们的项目 | Our Projects
 - OwOBot -> Chat robot for QQ&Telegram, [GitHub](https://github.com/OwONetworks/OwOBot).
-- DN42(AS4242423396) -> open for peering at https://theresa.network/
 - Clearnet(AS150184) -> [Looking glass](https://lg.owonet.work/)
 - OAuth Services -> base on Logto
 - And more...
